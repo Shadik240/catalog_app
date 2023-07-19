@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "OnePlus Nord 2T",
+      "desc": "OnePlus Nord 2T 5G",
+      "price": 999,
+      "color": "#33505a",
+      "image": "https://img.etimg.com/photo/msid-98898399/oneplus-nord-2t-5g.jpg"
+    },
+    {
+      "id": 2,
+      "name": "iQOO Neo 6 5G",
+      "desc": "iQOO Neo 6 5G 5th generation",
+      "price": 699,
+      "color": "#00ac51",
+      "image": "https://img.etimg.com/photo/msid-98898306/iqoo-neo-6-5g.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy",
+      "desc": "Samsung Galaxy Note 10+",
+      "price": 199,
+      "color": "#e0bfae",
+      "image": "https://img.etimg.com/photo/msid-98898537/samsung-galaxy-note-10.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Xiaomi 12 Pro 5G",
+      "desc": "Xiaomi 12 Pro 5G 5th generation",
+      "price": 500,
+      "color": "#544ee4",
+      "image": "https://img.etimg.com/photo/msid-98898599/xiaomi-12-pro-5g.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Tecno Phantom",
+      "desc": "Tecno Phantom V Fold 5G",
+      "price": 200,
+      "color": "#e3e4e9",
+      "image": "https://img.etimg.com/photo/msid-101329413/tecno-phantom-v-fold-5g.jpg"
+    },
+    {
+      "id": 6,
+      "name": "OnePlus 11R 5G",
+      "desc": "OnePlus 11R 5G 2023 edition",
+      "price": 799,
+      "color": "#f73984",
+      "image": "https://img.etimg.com/photo/msid-101329381/oneplus-11r-5g.jpg"
+    },
+    {
+      "id": 7,
+      "name": "iPad Pro",
+      "desc": "Apple iPad Pro 2020 edition",
+      "price": 799,
+      "color": "#f73984",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzUeRQ5uH7E3hpECib8qxdhfHv6SnUGT7mOsew_xiOoqRR7ZpdH-TQ4J6-HuIEfqHimYyPXWH&usqp=CAc"
+    },
+    {
+      "id": 8,
+      "name": "iPhone 12 Pro",
+      "desc": "Apple iPhone 12th generation",
+      "price": 999,
+      "color": "#33505a",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRISJ6msIu4AU9_M9ZnJVQVFmfuhfyJjEtbUm3ZK11_8IV9TV25-1uM5wHjiFNwKy99w0mR5Hk&usqp=CAc"
+    }
+  ]
+}
